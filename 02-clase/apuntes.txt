@@ -1,0 +1,3 @@
+mis apuntes:
+- git me ayuda a realizar un seguimiento de proyecto
+- terminé algo de la app
